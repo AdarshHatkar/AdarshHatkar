@@ -1,5 +1,4 @@
-# 💫 About Me:
-🔭 I’m currently working on<br><br>https://Primexop.com <br><br>https://gaming.primexop.com<br><br>🌱 I’m currently learning<br>So Many<br>💬 Ask me about<br>⚡ Fun fact
+
 
 
 ## 🌐 Socials:
