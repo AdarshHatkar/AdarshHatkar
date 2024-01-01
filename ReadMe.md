@@ -9,7 +9,7 @@
 # 📊 GitHub Stats:
 [![](https://github-readme-stats.vercel.app/api?username=AdarshHatkar&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/AdarshHatkar)<br/><br/>
 [![](https://github-readme-streak-stats.herokuapp.com/?user=AdarshHatkar&hide_border=true)](https://github.com/AdarshHatkar)<br/><br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshHatkar&langs_count=10)](https://github.com/AdarshHatkar)](https://github.com/AdarshHatkar)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshHatkar&langs_count=10)(https://github.com/AdarshHatkar)](https://github.com/AdarshHatkar)
 ## 🏆 GitHub Trophies 
 ![](https://github-profile-trophy.vercel.app/?username=AdarshHatkar&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
